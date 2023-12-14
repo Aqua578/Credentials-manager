@@ -9,7 +9,7 @@ Description: This Python program employs regular expressions to validate email a
 
 ## Usage
 1. Clone the repository.
-2. Run the program.
+2. Run the program using an IDE.
 3. Follow on-screen instructions for login or sign-up.
 
 Please feel free to help contribute to this projects and give feedbacks!
