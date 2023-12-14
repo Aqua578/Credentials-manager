@@ -1,6 +1,6 @@
 # Aqua-Chat Credentials Manager
 
-Description: This Python program employs regular expressions to validate email addresses and passwords provided by guest users. Validated user data is stored in a comma-separated value (CSV) file. The program utilizes the SHA-256 hashing algorithm to secure sensitive information, enhancing data security and safeguarding against potential malicious login attempts by unauthorized users.
+Description: This Python program employs regular expressions to validate email addresses and passwords provided by guest users. Validated user data is stored in a comma-separated value (CSV) file that utilizes the SHA-256 hashing algorithm to secure sensitive information, enhancing data security and safeguarding against potential malicious login attempts by unauthorized users.
 
 ## Features
 - Email address and password validation using regular expressions.
